@@ -1,0 +1,17 @@
+load comics.csv
+buy 2
+buy 10
+buy 100
+buy 512
+buy 16
+checkout
+buy -1
+buy 10000
+find 10
+remove 10
+find 10
+find -1
+find 1000000
+remove -10
+remove 100000
+

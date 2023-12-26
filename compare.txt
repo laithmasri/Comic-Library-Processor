@@ -1,0 +1,39 @@
+15671,15674c15671,15703
+<    List is currently empty.
+<  Subtotal: $0.00
+<       Tax: $0.00
+<     Total: $0.00
+---
+> Comic Number: 1
+> 	Date: 03/08/23
+> 	Code: JAN231099
+> 	Publisher: ABLAZE PUBLISHING
+> 	Title: Children Of The Black Sun #3 (Cover C Fritz Casis Giant-Size X-Men #1 Homage Variant)
+> 	Cost: $3.99
+> Comic Number: 2
+> 	Date: 03/08/23
+> 	Code: DEC220995
+> 	Publisher: ABLAZE PUBLISHING
+> 	Title: Traveling To Mars #4 (Cover E Roberto Meli Virgin Variant)
+> 	Cost: AR
+> Comic Number: 3
+> 	Date: 03/08/23
+> 	Code: 0123DC107
+> 	Publisher: DC COMICS
+> 	Title: Static Shadows Of Dakota #2 (Of 6)(Cover C Sanford Greene Card Stock Variant)
+> 	Cost: AR
+> Comic Number: 4
+> 	Date: 03/08/23
+> 	Code: MAY228937
+> 	Publisher: Merchandise
+> 	Title: Marvel The Vision And The Scarlet Witch Previews Exclusive T-Shirt Large
+> 	Cost: AR
+> Comic Number: 5
+> 	Date: 03/08/23
+> 	Code: JAN231158
+> 	Publisher: AHOY COMICS
+> 	Title: Gimmick #1 (Of 5)(Cover A Erica Henderson)
+> 	Cost: $3.99
+>  Subtotal:  $7.98
+>       Tax:  $0.40
+>     Total:  $8.38

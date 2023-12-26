@@ -1,0 +1,36 @@
+Command: load comics.csv
+      Number of comics: 609
+Command: buy 2
+Unable to buy comic #2
+Command: buy 10
+Unable to buy comic #10
+Command: buy 100
+Unable to buy comic #100
+Command: buy 512
+Unable to buy comic #512
+Command: buy 16
+Unable to buy comic #16
+Command: checkout
+Comics in Purchase List
+   List is currently empty.
+ Subtotal: $0.00
+      Tax: $0.00
+    Total: $0.00
+Command: buy -1
+Unable to buy comic #-1
+Command: buy 10000
+Unable to buy comic #10000
+Command: find 10
+There is no comic at index #10 in the list.
+Command: remove 10
+Comic at index 10 was not removed
+Command: find 10
+There is no comic at index #10 in the list.
+Command: find -1
+There is no comic at index #-1 in the list.
+Command: find 1000000
+There is no comic at index #1000000 in the list.
+Command: remove -10
+Comic at index -10 was not removed
+Command: remove 100000
+Comic at index 100000 was not removed

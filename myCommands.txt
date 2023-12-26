@@ -1,0 +1,21 @@
+load comics_3_21_23.csv
+save laith.csv
+clear
+display
+load laith.csv
+display
+buy -1
+buy 12
+buy 11
+buy 0
+remove 11
+display
+find 0
+find 12
+find -1
+find 13
+find 2
+find 0
+remove 0
+display
+checkout
